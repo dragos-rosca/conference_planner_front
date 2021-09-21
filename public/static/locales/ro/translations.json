@@ -7,7 +7,8 @@
   "NavBar": {
     "Dashboard": "Panou central",
     "Settings": "Setari",
-    "User": "Profil"
+    "User": "Profil",
+    "MyFirstMenu": "Primul meu meniu"
   },
   "Tooltips": {
     "Logout": "Iesire",

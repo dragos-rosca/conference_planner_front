@@ -14,7 +14,8 @@
   "Forbidden": "Not allowed to see this page!",
   "NavBar": {
     "Dashboard": "Dashboard",
-    "Settings": "Settings"
+    "Settings": "Settings",
+    "MyFirstMenu": "My First Menu"
   },
   "Tooltips": {
     "Logout": "Logout",
