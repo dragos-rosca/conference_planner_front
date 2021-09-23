@@ -1,7 +1,6 @@
 import React from 'react'
 import Settings from '@material-ui/icons/Settings'
 import HomeIcon from '@material-ui/icons/Home'
-import ConferenceListContainer from 'features/conferences/components/ConferenceListContainer'
 import { List } from '@material-ui/icons'
 
 const menuItems = [
