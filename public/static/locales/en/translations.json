@@ -15,7 +15,8 @@
   "NavBar": {
     "Welcome": "Welcome",
     "Settings": "Settings",
-    "MyFirstMenu": "My First Menu"
+    "MyFirstMenu": "My First Menu",
+    "Conferences": "Conferences"
   },
   "Tooltips": {
     "Logout": "Logout",
@@ -59,5 +60,22 @@
   },
   "UserMenu": {
     "User": "User"
+  },
+  "Conferences": {
+    "Filters": {
+      "StartDate": "StartDate",
+      "EndDate": "EndDate"
+    },
+    "Speaker": "Speaker :",
+    "Attend": "Attend",
+    "Join": "Join",
+    "Withdraw": "Withdraw",
+    "StatusNotSet": "Not attending"
+  },
+  "General": {
+    "Buttons": {
+      "ApplyFilters": "Apply filters",
+      "ResetFilters": "Reset filters"
+    }
   }
 }
