@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import tableStyles from 'assets/jss/components/tableStyle'
 import { Grid, makeStyles } from '@material-ui/core'
-import { Table, Tbody, Tr, Td, Th, Thead } from 'react-super-responsive-table'
+import { Table, Tbody, Tr, Th, Thead } from 'react-super-responsive-table'
 import { useTranslation } from 'react-i18next'
 import MyConferenceSpeakerData from './MyConferenceSpeakerData'
 
