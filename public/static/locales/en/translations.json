@@ -16,7 +16,8 @@
     "Welcome": "Welcome",
     "Settings": "Settings",
     "MyFirstMenu": "My First Menu",
-    "Conferences": "Conferences"
+    "Conferences": "Conferences",
+    "MyConferences": "My Conferences"
   },
   "Tooltips": {
     "Logout": "Logout",
@@ -72,10 +73,15 @@
     "Withdraw": "Withdraw",
     "StatusNotSet": "Not attending"
   },
+  "MyConferences": {
+    "Edit": "Edit",
+    "Delete": "Delete"
+  },
   "General": {
     "Buttons": {
       "ApplyFilters": "Apply filters",
-      "ResetFilters": "Reset filters"
+      "ResetFilters": "Reset filters",
+      "AddConference": "Add Conference"
     }
   }
 }
