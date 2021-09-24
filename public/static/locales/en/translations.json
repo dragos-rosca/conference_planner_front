@@ -83,6 +83,7 @@
       "ResetFilters": "Reset filters",
       "AddConference": "Add Conference",
       "AddSpeaker": "Add Speaker",
+      "DeleteSpeaker": "Delete speaker",
       "Save": "Save"
     }
   },
@@ -104,5 +105,11 @@
     "City": "City",
     "Latitude": "Latitude",
     "Longitude": "Longitude"
+  },
+  "Speaker": {
+    "Name": "Name",
+    "Nationality": "Nationality",
+    "Rating": "Rating",
+    "MainSpeaker": "Main Speaker"
   }
 }

@@ -76,6 +76,7 @@
       "ResetFilters": "Reseteaza filtre",
       "AddConference": "Adauga conferinta",
       "AddSpeaker": "Adauga orator",
+      "DeleteSpeaker": "Sterge orator",
       "Save": "Salveaza"
     }
   },
@@ -97,5 +98,11 @@
     "City": "Oras",
     "Latitude": "Latitudine",
     "Longitude": "Longitudine"
+  },
+  "Speaker": {
+    "Name": "Nume",
+    "Nationality": "Nationalitate",
+    "Rating": "Rating",
+    "MainSpeaker": "Orator principal"
   }
 }
