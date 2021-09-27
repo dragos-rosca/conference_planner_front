@@ -33,7 +33,7 @@ const MyConferenceSpeakerData = props => {
       <Td className={classes.tableContent}>
         <Checkbox
           color='secondary'
-          value={isMainSpeaker}
+          checked={isMainSpeaker}
           onChange={onCheckBoxChange(handleGeneralDispatch('isMainSpeaker', 'isMainSpeaker'))}
         />
       </Td>
